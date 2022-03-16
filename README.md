@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://hermanld.github.io/fm-ping-coming-soon/">
       Demo
     </a>
     <span> | </span>
@@ -35,11 +35,7 @@
 
 ## Overview
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Quick project to practice making a css design system
 
 ### Built With
 
@@ -60,8 +56,7 @@ This application/site was created as a submission to a [Frontend Mentor](https:/
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
 
-- [A Complete Guide to Flexbox -by CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [What the Flexbox!? -Course by Wes Bos](https://flexbox.io/)
+- [Create a Design System with CSS -by Kevin Powell](https://www.youtube.com/watch?v=lRaL-8qZ0mM)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 
 ## Contact
